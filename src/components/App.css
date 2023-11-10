@@ -1,0 +1,17 @@
+.list{
+    float: left;
+    width: 50%;
+}
+
+.searchBar{
+    float: right;
+    width: 20%;
+}
+
+.searchSubmit{
+    background-color: lightgreen;
+    color: white;
+    width: 70px;
+    font-weight: 500;
+    
+}
